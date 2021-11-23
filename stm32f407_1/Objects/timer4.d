@@ -1,0 +1,12 @@
+.\objects\timer4.o: timer4.c
+.\objects\timer4.o: stm32f407xx.h
+.\objects\timer4.o: .\Include\core_cm4.h
+.\objects\timer4.o: .\Include\stdint.h
+.\objects\timer4.o: .\Include\cmsis_version.h
+.\objects\timer4.o: .\Include\cmsis_compiler.h
+.\objects\timer4.o: .\Include\cmsis_armcc.h
+.\objects\timer4.o: .\Include\mpu_armv7.h
+.\objects\timer4.o: utility.h
+.\objects\timer4.o: gpio.h
+.\objects\timer4.o: sys.h
+.\objects\timer4.o: timer4.h

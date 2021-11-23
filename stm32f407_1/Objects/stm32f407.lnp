@@ -1,0 +1,25 @@
+--cpu=Cortex-M4.fp.sp
+".\objects\clk.o"
+".\objects\gpio.o"
+".\objects\main.o"
+".\objects\sys.o"
+".\objects\systick.o"
+".\objects\timer1.o"
+".\objects\timer2.o"
+".\objects\timer3.o"
+".\objects\timer4.o"
+".\objects\timer13.o"
+".\objects\timer14.o"
+".\objects\uart4.o"
+".\objects\uart5.o"
+".\objects\usart.o"
+".\objects\usart1.o"
+".\objects\usart2.o"
+".\objects\usart3.o"
+".\objects\usart6.o"
+".\objects\utility.o"
+".\objects\startup_stm32f407xx.o"
+--strict --scatter ".\Objects\stm32f407.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\stm32f407.map" -o .\Objects\stm32f407.axf

@@ -1,0 +1,17 @@
+.\objects\main.o: main.c
+.\objects\main.o: stm32f407xx.h
+.\objects\main.o: .\Include\core_cm4.h
+.\objects\main.o: .\Include\stdint.h
+.\objects\main.o: .\Include\cmsis_version.h
+.\objects\main.o: .\Include\cmsis_compiler.h
+.\objects\main.o: .\Include\cmsis_armcc.h
+.\objects\main.o: .\Include\mpu_armv7.h
+.\objects\main.o: utility.h
+.\objects\main.o: gpio.h
+.\objects\main.o: clk.h
+.\objects\main.o: sys.h
+.\objects\main.o: systick.h
+.\objects\main.o: usart.h
+.\objects\main.o: timer2.h
+.\objects\main.o: timer3.h
+.\objects\main.o: timer13.h

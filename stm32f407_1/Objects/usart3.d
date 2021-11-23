@@ -1,0 +1,12 @@
+.\objects\usart3.o: usart3.c
+.\objects\usart3.o: stm32f407xx.h
+.\objects\usart3.o: .\Include\core_cm4.h
+.\objects\usart3.o: .\Include\stdint.h
+.\objects\usart3.o: .\Include\cmsis_version.h
+.\objects\usart3.o: .\Include\cmsis_compiler.h
+.\objects\usart3.o: .\Include\cmsis_armcc.h
+.\objects\usart3.o: .\Include\mpu_armv7.h
+.\objects\usart3.o: utility.h
+.\objects\usart3.o: gpio.h
+.\objects\usart3.o: sys.h
+.\objects\usart3.o: usart3.h

@@ -1,0 +1,9 @@
+..\obj\misc.o: ..\STM32F4xx_StdPeriph_Driver\src\misc.c
+..\obj\misc.o: ..\FreeRTOS\include\misc.h
+..\obj\misc.o: ..\SYSTEM\sys\stm32f4xx.h
+..\obj\misc.o: ..\SYSTEM\sys\core_cm4.h
+..\obj\misc.o: E:\大学资料\毕业实习\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\misc.o: ..\SYSTEM\sys\core_cmInstr.h
+..\obj\misc.o: ..\SYSTEM\sys\core_cmFunc.h
+..\obj\misc.o: ..\SYSTEM\sys\core_cm4_simd.h
+..\obj\misc.o: ..\SYSTEM\sys\system_stm32f4xx.h

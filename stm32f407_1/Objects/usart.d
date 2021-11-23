@@ -1,0 +1,17 @@
+.\objects\usart.o: usart.c
+.\objects\usart.o: stm32f407xx.h
+.\objects\usart.o: .\Include\core_cm4.h
+.\objects\usart.o: .\Include\stdint.h
+.\objects\usart.o: .\Include\cmsis_version.h
+.\objects\usart.o: .\Include\cmsis_compiler.h
+.\objects\usart.o: .\Include\cmsis_armcc.h
+.\objects\usart.o: .\Include\mpu_armv7.h
+.\objects\usart.o: utility.h
+.\objects\usart.o: sys.h
+.\objects\usart.o: usart1.h
+.\objects\usart.o: usart2.h
+.\objects\usart.o: usart3.h
+.\objects\usart.o: uart4.h
+.\objects\usart.o: uart5.h
+.\objects\usart.o: usart6.h
+.\objects\usart.o: usart.h

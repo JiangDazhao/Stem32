@@ -1,0 +1,10 @@
+.\objects\gpio.o: gpio.c
+.\objects\gpio.o: stm32f407xx.h
+.\objects\gpio.o: .\Include\core_cm4.h
+.\objects\gpio.o: .\Include\stdint.h
+.\objects\gpio.o: .\Include\cmsis_version.h
+.\objects\gpio.o: .\Include\cmsis_compiler.h
+.\objects\gpio.o: .\Include\cmsis_armcc.h
+.\objects\gpio.o: .\Include\mpu_armv7.h
+.\objects\gpio.o: utility.h
+.\objects\gpio.o: gpio.h

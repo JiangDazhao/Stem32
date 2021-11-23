@@ -1,0 +1,12 @@
+.\objects\usart6.o: usart6.c
+.\objects\usart6.o: stm32f407xx.h
+.\objects\usart6.o: .\Include\core_cm4.h
+.\objects\usart6.o: .\Include\stdint.h
+.\objects\usart6.o: .\Include\cmsis_version.h
+.\objects\usart6.o: .\Include\cmsis_compiler.h
+.\objects\usart6.o: .\Include\cmsis_armcc.h
+.\objects\usart6.o: .\Include\mpu_armv7.h
+.\objects\usart6.o: utility.h
+.\objects\usart6.o: gpio.h
+.\objects\usart6.o: sys.h
+.\objects\usart6.o: usart6.h

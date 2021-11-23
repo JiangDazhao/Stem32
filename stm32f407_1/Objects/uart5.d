@@ -1,0 +1,12 @@
+.\objects\uart5.o: uart5.c
+.\objects\uart5.o: stm32f407xx.h
+.\objects\uart5.o: .\Include\core_cm4.h
+.\objects\uart5.o: .\Include\stdint.h
+.\objects\uart5.o: .\Include\cmsis_version.h
+.\objects\uart5.o: .\Include\cmsis_compiler.h
+.\objects\uart5.o: .\Include\cmsis_armcc.h
+.\objects\uart5.o: .\Include\mpu_armv7.h
+.\objects\uart5.o: utility.h
+.\objects\uart5.o: gpio.h
+.\objects\uart5.o: sys.h
+.\objects\uart5.o: uart5.h

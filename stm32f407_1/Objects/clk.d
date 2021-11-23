@@ -1,0 +1,10 @@
+.\objects\clk.o: clk.c
+.\objects\clk.o: stm32f407xx.h
+.\objects\clk.o: .\Include\core_cm4.h
+.\objects\clk.o: .\Include\stdint.h
+.\objects\clk.o: .\Include\cmsis_version.h
+.\objects\clk.o: .\Include\cmsis_compiler.h
+.\objects\clk.o: .\Include\cmsis_armcc.h
+.\objects\clk.o: .\Include\mpu_armv7.h
+.\objects\clk.o: utility.h
+.\objects\clk.o: clk.h
